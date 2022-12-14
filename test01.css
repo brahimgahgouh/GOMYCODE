@@ -1,0 +1,48 @@
+#form{
+    background-color: blue;
+
+    position: relative;
+    background-image: url("velo.jpg");
+
+    left: 25%;
+    
+
+
+    height: 100%;
+    width: 30%;
+    padding: 5% 5% 5% 5%;
+    margin: 5% 5% 5% 5%;    
+
+}
+input[type=text], input[type=submit] {
+    border: 0.1px solid blue;
+    border-radius: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 5% 5% 5% 5%;
+    margin: 5% 5% 5% 5%;
+    background-color: transparent; 
+
+}
+
+input[type-submit] {
+
+    padding: 5% 5% 5% 5%;
+    margin: 5% 5% 5% 5%; 
+    box-shadow: 6px;
+}
+
+label {
+    font-size: 20px;
+    padding: 5% 5% 5% 5%;
+    margin: 5% 5% 5% 1%; 
+    font-family: cursive;
+}
+input {
+    font-size: 20px;
+    padding: 5% 5% 5% 5%;
+    margin: 5% 5% 5% 5%;
+    font-family: cursive;
+    color: gainsboro;
+}

@@ -1,0 +1,21 @@
+li {
+    display: inline;
+
+    float: left;
+    margin-left: 50px;
+    font-family: cursive;
+    font-size: 30px;
+    
+}
+li a:hover{
+    border: 1px solid red;
+    border-color: rgb(0, 255, 98);
+    font-size: 35px;
+    z-index: 1;
+}
+.navbar {
+    height: 10px;
+}
+body {
+    background-color: black;
+}
